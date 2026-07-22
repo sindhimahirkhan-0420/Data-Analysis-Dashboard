@@ -22,6 +22,15 @@
 - Total Gross Revenue: ₹5M
 
 ## Dashboard 
-<img width="1920" height="1020" alt="Screenshot 2026-07-22 151616" src="https://github.com/user-attachments/assets/9e863795-7291-43ef-8197-b9b5a2940443" />
+<img width="1328" height="745" alt="Power Bi Project" src="https://github.com/user-attachments/assets/7542f943-6f7f-4950-9d11-a4db0cdb13dc" />
+
+
+
+
+
+
+
+
+
 
 
