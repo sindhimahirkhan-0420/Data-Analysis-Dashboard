@@ -5,17 +5,18 @@ Developed an interactive Power BI dashboard to analyze e‑commerce sales data a
 - <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Ecommerce_Orders_600_Rows.xlsx">Dataset</a>
 ## Dashboard 
 - <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Power%20Bi%20Project">.png
-## Key Insights:
-- Sales by Month: Displays monthly sales performance, helping identify seasonal trends and peak sales periods.
-- Sales by Platform: Compares revenue generated through Amazon, Shopify, Meesho, and Flipkart.
-- Sales by Category: Shows sales distribution across Home, Electronics, Books, Fashion, and Beauty categories.
-- Sales by Region: Highlights sales performance across West, Central, North, South, and East regions.
+## Project Insights
+- Total Gross Revenue reached ₹5M, while Net Revenue was ₹4.21M, indicating deductions due to returns, cancellations, or discounts.
+- Amazon was the highest-performing sales platform with ₹1.4M in sales, followed by Shopify and Meesho.
+- The Home category generated the highest sales (₹1.01M), making it the top-performing product category.
+- The West region recorded the highest sales (₹1.08M), while the East region contributed the lowest revenue.
+- October achieved the highest monthly sales (₹0.61M), whereas April recorded the lowest sales (₹0.24M), indicating seasonal sales fluctuations.
+- Maharashtra contributed the largest share of gross revenue among all states.
+- The dashboard tracks 2K units sold, helping monitor overall sales volume and business performance.
+- The Order Status visualization highlights Delivered, Shipped, Returned, and Cancelled orders, enabling analysis of order fulfillment efficiency.
+- Interactive visuals allow users to compare sales across months, platforms, categories, regions, and states, supporting faster and more informed business decisions.
 ## KPI Cards Summarize important business metrics:
 - Total Unit Price: ₹2M
 - Total Net Revenue: ₹4.21M
 - Total Quantity Sold: 2K
 - Total Gross Revenue: ₹5M
-
-- Gross Revenue by State: Donut chart displaying each state's contribution to total revenue.
-- Orders by Month: Line chart showing monthly order trends throughout the year.
-- Order Status:Visual breakdown of Delivered, Shipped, Returned, and Cancelled orders.
