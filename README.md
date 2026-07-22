@@ -1,7 +1,8 @@
 # Data-Analysis-Dashboard
-Developed an interactive Power BI dashboard to analyze e‑commerce sales data across multiple platforms, categories, regions, and states. The project provides actionable insights into sales performance, revenue distribution, and order fulfillment trends.
+
 ## Project Object
--E-commerce Sales Dashboard that analyzes sales data from Amazon, Shopify, Meesho, and Flipkart, tracks key business KPIs, compares sales performance across platforms and regions, identifies sales trends, and supports data-driven decision-making.
+- Developed an interactive Power BI dashboard to analyze e‑commerce sales data across multiple platforms, categories, regions, and states. The project provides actionable insights into sales performance, revenue distribution, and order fulfillment trends.
+- E-commerce Sales Dashboard that analyzes sales data from Amazon, Shopify, Meesho, and Flipkart, tracks key business KPIs, compares sales performance across platforms and regions, identifies sales trends, and supports data-driven decision-making.
 ## Dataset Used
 - <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Ecommerce_Orders_600_Rows.xlsx">Dataset</a>
 ## Project Insights
