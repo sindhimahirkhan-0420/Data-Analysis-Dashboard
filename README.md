@@ -22,5 +22,6 @@
 - Total Gross Revenue: ₹5M
 
 ## Dashboard 
-- <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Power%20Bi%20Project">.png
+<img width="1920" height="1020" alt="Screenshot 2026-07-22 151616" src="https://github.com/user-attachments/assets/9e863795-7291-43ef-8197-b9b5a2940443" />
+
 
