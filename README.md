@@ -1,10 +1,9 @@
 # Data-Analysis-Dashboard
 Developed an interactive Power BI dashboard to analyze e‑commerce sales data across multiple platforms, categories, regions, and states. The project provides actionable insights into sales performance, revenue distribution, and order fulfillment trends.
-
+## Project Object
+-E-commerce Sales Dashboard that analyzes sales data from Amazon, Shopify, Meesho, and Flipkart, tracks key business KPIs, compares sales performance across platforms and regions, identifies sales trends, and supports data-driven decision-making.
 ## Dataset Used
 - <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Ecommerce_Orders_600_Rows.xlsx">Dataset</a>
-## Dashboard 
-- <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Power%20Bi%20Project">.png
 ## Project Insights
 - Total Gross Revenue reached ₹5M, while Net Revenue was ₹4.21M, indicating deductions due to returns, cancellations, or discounts.
 - Amazon was the highest-performing sales platform with ₹1.4M in sales, followed by Shopify and Meesho.
@@ -20,3 +19,7 @@ Developed an interactive Power BI dashboard to analyze e‑commerce sales data a
 - Total Net Revenue: ₹4.21M
 - Total Quantity Sold: 2K
 - Total Gross Revenue: ₹5M
+
+## Dashboard 
+- <a href="https://github.com/sindhimahirkhan-0420/Data-Analysis-Dashboard/blob/main/Power%20Bi%20Project">.png
+
